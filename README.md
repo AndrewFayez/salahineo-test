@@ -2,7 +2,7 @@
 
 ### :man_technologist: About Me
 
-- 👩‍💻 &nbsp; I'm a Frontend Developer
+- 💻 &nbsp; I'm a Frontend Developer
 - 🎓 &nbsp; I have studied **Computer Science** which provided me with some outstanding and technical skills.
 - 💼 &nbsp; I consider myself equipped with **Most** of web development skills, but I know I **Still** need to learn a lot more.
 - 🤔 &nbsp; I always like to learn and explore everything about **Web Development** technologies.
@@ -53,7 +53,6 @@
 <div>
   <img src="https://img.shields.io/badge/-Gulp--JS-CF4647?style=flat&logo=gulp&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/-Command--Line-4D4D4D?style=flat&logo=windows-terminal&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=222222"/>
 </div>
