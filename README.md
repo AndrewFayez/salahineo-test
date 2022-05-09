@@ -74,6 +74,9 @@
 
 [![Salahineo's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=salahineo&langs_count=40&layout=compact&hide_border=true&theme=tokyonight)](https://wakatime.com/@salahineo)
 
+### :man_teacher: Stack Overflow
+
+<a href="https://stackoverflow.com/users/13732184/salahineo"><img src="https://stackoverflow.com/users/flair/13732184.png?theme=dark" width="208" height="58" alt="Salahineo at Stack Overflow" title="Salahineo at Stack Overflow"></a>
 
 ### :thinking: Codewars Stats
 
