@@ -1,7 +1,4 @@
 ## Hi There. I'm Mohamed Salah <img src="https://raw.githubusercontent.com/salahineo/salahineo/main/assets/img/github/Hi.gif" width="30px">
-<script>
-alert("test");
-</script>
 
 ### :man_technologist: About Me
 
