@@ -4,7 +4,7 @@
 
 - 💻 &nbsp; I'm a Frontend Developer
 - 🎓 &nbsp; I have studied **Computer Science** which provided me with some outstanding and technical skills.
-- 💼 &nbsp; I consider myself equipped with **Most** of web development skills, but I know I **Still** need to learn a lot more.
+- 💼 &nbsp; I consider myself equipped with **Most** web development skills, but I know I **Still** need to learn a lot more.
 - 🤔 &nbsp; I always like to learn and explore everything about **Web Development** technologies.
 - 🌱 &nbsp; I hope to be a successful **Full-Stack Developer**.
 - ⚡ &nbsp; Fact: The **Expert** in Anything was Once a **Beginner**.
