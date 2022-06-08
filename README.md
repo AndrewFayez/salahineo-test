@@ -1,4 +1,4 @@
-## Hi There. I'm Mohamed Salah 👋
+## 👋 Hi There. I'm Mohamed Salah
 
 ### :man_technologist: About Me
 
