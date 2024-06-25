@@ -68,7 +68,7 @@
 
 ![Salahineo's Github Stats](https://github-readme-stats.vercel.app/api?username=salahineo&include_all_commits=true&hide=contribs,prs&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
-![Salahineo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salahineo&hide=HTML&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
+![Salahineo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewFayez&layout=compact&hide_border=true&theme=tokyonight)
 
 ![Salahineo's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=salahineo&hide_border=true&theme=tokyonight)
 
